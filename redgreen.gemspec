@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.date = %q{2009-04-06}
   s.default_executable = %q{rg}
   s.description = %q{kule-redgreen colourises windows console output for tests.  This version works with ZenTest 4.0.0, autotest, snarl, XP and Vista.  Please see the README file for setup or issues with Snarl.}
-  s.email = %q{github@kulesolutions.com}
+  s.email = %q{github@scilipoti.name}
   s.executables = ["rg"]
   s.extra_rdoc_files = [
     "README.markdown"
