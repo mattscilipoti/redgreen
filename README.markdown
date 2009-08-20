@@ -1,5 +1,9 @@
-# kule-redgreen
+# mattscilipoti-redgreen
 
+mattscilipoti-redgreen is a fork of kule-redgreen
+
+
+kule-redgreen description:
 kule-redgreen is a fork of Pat Eyler's & Chris Wanstrath's RedGreen.
 
 I had problems with autotest only running once and then stopping (rather than continuously testing new updates).
@@ -7,20 +11,11 @@ I had problems with autotest only running once and then stopping (rather than co
 This version works using ZenTest 4.0.0 on XP & Vista.
 
 ## Recent Changes
-
-0.1.2
-
-* Added foreground coloring (note: changes to Snarl Issue Regular Expression below) - Thanks Matte Edens
-* Added namespace to Color class, to stop conflicts with similar named classes - Thanks Andreas Riemer
-* I'm now working on a Mac so if someone would like to pick this up please let me know!
-
-0.1.1
-
-* Initial Version
+see History.txt
 
 ## Install the gem
 
-    gem install kule-redgreen -s http://gems.github.com
+    gem install mattscilipoti-redgreen -s http://gems.github.com
 
 NB. Don't forget to uninstall the old redgreen gem if you are using it:
 
